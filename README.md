@@ -21,7 +21,6 @@
 **📫 联系方式**
 
 *   **邮箱：** yxdm02@gmail.com
-*   **微信：** yxdm02
 
 **💼 职业**
 
@@ -50,7 +49,6 @@ In my free time, I delve into security architectures, tools, and products.  I'm 
 **📫 Contact**
 
 *   **Email:** yxdm02@gmail.com
-*   **WeChat：** yxdm02
 
 **💼 Career**
 
